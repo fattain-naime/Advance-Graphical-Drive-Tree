@@ -4,7 +4,7 @@
 </br>
 The program will automatically detected you system drive, HDD drive, SSD drive, external drive, CD drive (if a cd in there) also you don't need to install any software. </br></br>
 <b>How to run</b></br>
-To run Advance Graphical Every Drive Tree just dabble click on <b>AGT.cmd</b>. To stop tree press Ctrl+c and type y and hit enter.
+To run Advance Graphical Every Drive Tree just dabble click on <b>AGT.cmd</b>. To stop tree press <b>Ctrl+c</b> and type y and hit enter.
 
 
 If you find any bug feel free to report us. </br>
